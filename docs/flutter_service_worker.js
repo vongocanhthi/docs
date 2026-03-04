@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "6071ae56b5cdfe010a3346f1115636d2",
+const RESOURCES = {"flutter_bootstrap.js": "d41f654cea70c77855abedb16785360d",
 "version.json": "e7e473f26700fe94fe1b3f32eb51ef6f",
 "index.html": "d2b87856061c44678275f0ad4cf9fd2d",
 "/": "d2b87856061c44678275f0ad4cf9fd2d",
@@ -15,8 +15,8 @@ const RESOURCES = {"flutter_bootstrap.js": "6071ae56b5cdfe010a3346f1115636d2",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "efbad6ea8aa90a74a51f4851b9ba90c0",
-"chicken-farm/terms.html": "9c71060f7e258a7b7b1204a3d2082a24",
-"chicken-farm/privacy.html": "332c636e3f2ecc67766e1a0247a1fe5f",
+"chicken-farm/terms.html": "a00444d89df555133ac19bc10c073bf4",
+"chicken-farm/privacy.html": "9ad57cc4b92de2bb3d5d84de46c1b978",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/NOTICES": "6cfd2712308f124da4b400947b8e8550",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
